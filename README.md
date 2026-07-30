@@ -259,48 +259,6 @@ Business-focused SQL queries were written to extract meaningful insights.
 
 ---
 
-# 📷 Project Preview
-
-## Database Schema
-
-<p align="center">
-<img src="images/schema.png" width="85%">
-</p>
-
----
-
-## Data Exploration
-
-<p align="center">
-<img src="images/data_exploration.png" width="85%">
-</p>
-
----
-
-## Data Cleaning
-
-<p align="center">
-<img src="images/data_cleaning.png" width="85%">
-</p>
-
----
-
-## Business Queries
-
-<p align="center">
-<img src="images/business_queries.png" width="85%">
-</p>
-
----
-
-## SQL Results
-
-<p align="center">
-<img src="images/sql_results.png" width="85%">
-</p>
-
----
-
 # 🚀 Getting Started
 
 ## 1. Clone Repository
